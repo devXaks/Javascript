@@ -1,1 +1,1 @@
-Made and maintained by akshat tripathi
+Compilation of my practice problems of javascript
